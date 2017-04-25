@@ -18,5 +18,5 @@ Main class- **InvestorMetricFeed.scala**
 ## Steps to run the tests
 
 sbt test
- # BRInvestor
+
 
