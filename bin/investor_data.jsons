@@ -1,0 +1,13 @@
+{"investor_id": 4, "date":"1-12-2014", "type":"BUY", "ticker":"BR", "amount":123985}
+{"investor_id": 4, "date":"1-12-2014", "type":"SELL", "ticker":"BR", "amount":19845}
+{"investor_id": 4, "date":"1-13-2014", "type":"SELL", "ticker":"BR", "amount":13285}
+{"investor_id": 4, "date":"1-13-2014", "type":"BUY", "ticker":"PVH", "amount":248974}
+{"investor_id": 4, "date":"1-13-2014", "type":"SELL", "ticker":"PVH", "amount":12000}
+{"investor_id": 4, "date":"1-13-2014", "type":"SELL", "ticker":"MO", "amount":3298}
+{"investor_id": 5, "date":"2-18-2016", "type":"BUY", "ticker":"BR", "amount":296}
+{"investor_id": 5, "date":"2-18-2016", "type":"BUY", "ticker":"BR", "amount":5200}
+{"investor_id": 5, "date":"2-18-2016", "type":"BUY", "ticker":"BR", "amount":586}
+{"investor_id": 5, "date":"2-18-2016", "type":"BUY", "ticker":"AAPL", "amount":1286}
+{"investor_id": 6, "date":"1-13-2014", "type":"SELL", "ticker":"MO", "amount":3298}
+{"investor_id": 6, "date":"1-13-2014", "type":"SELL", "ticker":"MO", "amount":16985}
+{"investor_id": 6, "date":"2-13-2014", "type":"SELL", "ticker":"MO", "amount":4287}
