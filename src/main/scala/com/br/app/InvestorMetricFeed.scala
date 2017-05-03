@@ -48,7 +48,7 @@ object InvestorMetricFeed {
  def  printAmountRangeForInvestor(listInvestorData:Seq[InvestorOrder])={
      var mapInvestorToOrders = listInvestorData.groupBy(_.investorId)
      var mapInvestorToOrdersSorted = ListMap(mapInvestorToOrders.toSeq.sortBy(_._1):_*)//sort by investor id
-     
+     //sorting by investor is required as many orders for investor
      
      mapInvestorToOrdersSorted.keys.foreach(investorId => { 
          var investorOrderLargest = investorMetrics.getLargestTradeForInvestor(mapInvestorToOrders(investorId),investorId)
